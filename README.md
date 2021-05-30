@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+[![Libra11 github stats](https://github-readme-stats.vercel.app/api?username=AiMiDi&count_private=true&show_icons=true&icon_color=e1c442&text_color=424242&title_color=l7395df&bg_color=0,e55d87,5fc3e4&line_height=27&include_all_commits=true&hide_border=true)](https://github.com/AiMiDi) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AiMiDi&icon_color=e1c442&text_color=424242&title_color=l7395df&bg_color=0,e55d87,5fc3e4&hide_border=true)](https://github.com/AiMiDi)
+
+[![Libra11 github stats](https://github-readme-stats.vercel.app/api?username=AiMiDi&count_private=true&show_icons=true&icon_color=e1c442&text_color=424242&title_color=d83a7cdf&bg_color=0,5fc3e4,e55d87&locale=cn&line_height=27&include_all_commits=true&hide_border=true)](https://github.com/AiMiDi) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AiMiDi&icon_color=e1c442&text_color=424242&title_color=d83a7cdf&bg_color=0,5fc3e4,e55d87&locale=cn&hide_border=true)](https://github.com/AiMiDi)
+
+
 <!--
 **AiMiDi/AiMiDi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
