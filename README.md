@@ -1,8 +1,12 @@
-### Hi there 👋
+# Hello ~ 
 
 [![Libra11 github stats](https://github-readme-stats.vercel.app/api?username=AiMiDi&count_private=true&show_icons=true&icon_color=e1c442&text_color=424242&title_color=l7395df&bg_color=0,e55d87,5fc3e4&line_height=27&include_all_commits=true&hide_border=true)](https://github.com/AiMiDi) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AiMiDi&icon_color=e1c442&text_color=424242&title_color=l7395df&bg_color=0,e55d87,5fc3e4&hide_border=true)](https://github.com/AiMiDi)
 
 [![Libra11 github stats](https://github-readme-stats.vercel.app/api?username=AiMiDi&count_private=true&show_icons=true&icon_color=e1c442&text_color=424242&title_color=d83a7cdf&bg_color=0,5fc3e4,e55d87&locale=cn&line_height=27&include_all_commits=true&hide_border=true)](https://github.com/AiMiDi) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AiMiDi&icon_color=e1c442&text_color=424242&title_color=d83a7cdf&bg_color=0,5fc3e4,e55d87&locale=cn&hide_border=true)](https://github.com/AiMiDi)
+
+------
+[![](https://img.shields.io/badge/-@AiMiDi-%23181717?style=flat-square&logo=github)](https://github.com/AiMiDi)   
+[![](https://img.shields.io/badge/-%40艾米蒂aimidi-blue?style=flat-square&logo=bilibili)](https://space.bilibili.com/30898053)
 
 
 <!--
